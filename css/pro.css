@@ -1,0 +1,10 @@
+h1{
+    color: blueviolet;
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li{
+    color: red;
+    text-align: left;
+    font-size: larger;
+}
